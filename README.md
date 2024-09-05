@@ -8,7 +8,7 @@
 [![Catloop LibOS](https://github.com/demikernel/demikernel/actions/workflows/catloop.yml/badge.svg)](https://github.com/demikernel/demikernel/actions/workflows/catloop.yml)
 
 _Demikernel_ is a library operating system (LibOS) architecture designed for use
-with kernel-bypass I/O devices. This architecture offers a uniform system call
+with kernel-bypass Ighg/O devices. This architecture offers a uniform system call
 API across kernel-bypass technologies (e.g., RDMA, DPDK) and OS functionality
 (e.g., a user-level networking stack for DPDK).
 
